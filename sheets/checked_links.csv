@@ -1,0 +1,160 @@
+S.No.,College Name,Faculty Directory Link,Exists,
+1,AMU Commerce Department,https://www.amu.ac.in/department/commerce/faculty-members,TRUE,1
+2,AMU Education Department,https://www.amu.ac.in/department/education/faculty-members,TRUE,1
+3,AMU English Department,https://www.amu.ac.in/department/english/faculty-members,TRUE,1
+4,Aditya Engineering College,https://aec.edu.in/?p=Staff_Directory,FALSE,0
+5,Aligarh Muslim University,https://www.amu.ac.in/faculties,TRUE,1
+6,All Institute of Medical Sciences (AIIMS) Delhi,https://www.aiims.edu/en/faculty.html,FALSE,0
+7,Amity University ASET Delhi,https://www.amity.edu/asetdelhi/pdf/Faculty_list.pdf,TRUE,1
+8,Amity University Gwalior,https://www.amity.edu/gwalior/faculty-list-new.aspx,TRUE,1
+9,Amity University Mumbai,https://www.amity.edu/mumbai/faculty-list-new.aspx,TRUE,1
+10,Amity University Noida,http://auup.amity.edu/faculty_list_new.aspx?InstituteId=24,TRUE,1
+11,Amrita Computational Engineering,https://www.amrita.edu/center/computational-engineering-and-networking/people/,TRUE,1
+12,Amrita Mind Brain Center,https://www.amrita.edu/center/mind-brain/people/,TRUE,1
+13,Amrita University,https://www.collegebatch.com/244-amrita-vishwa-vidyapeetham-faculty-profiles-coimbatore,TRUE,1
+14,Andhra University,https://www.andhrauniversity.edu.in/index.php/academics/faculty,FALSE,0
+15,Anna University (Centre for Environmental Studies),https://www.cesannauniv.in/faculty.php,TRUE,1
+16,Anna University (Food Technology),https://www.annauniv.edu/FoodTech/faculty.html,TRUE,1
+17,Anna University (RCC),https://www.annauniv.edu/rcc/faculty.html,TRUE,1
+18,Anna University Chennai,https://www.annauniv.edu/EnergyStudies/faculty.php,TRUE,1
+19,Armed Forces Medical College,https://www.afmc.nic.in/faculty.htm,FALSE,0
+20,Ashoka University,https://ashoka.edu.in/roles/faculty/,TRUE,1
+21,BITS Goa,https://www.bits-pilani.ac.in/goa/faculty/,TRUE,1
+22,BITS Hyderabad,https://www.bits-pilani.ac.in/hyderabad/faculty/,TRUE,1
+23,BITS Pilani,https://www.bits-pilani.ac.in/faculty-overview/,TRUE,1
+24,BR Ambedkar Open University,https://braou.ac.in/allfaculty,TRUE,1
+25,Banaras Hindu University,https://bhu.ac.in/Site/Page/1_2_17_3746_Main-Site-Departments,TRUE,1
+26,Bharathiar University,https://b-u.ac.in/faculty/,TRUE,1
+27,Central University of Gujarat,https://www.cug.ac.in/faculty,TRUE,1
+28,Central University of Haryana,https://www.cuh.ac.in/faculty/,FALSE,0
+29,Central University of Himachal Pradesh,https://www.cuhimachal.ac.in/index.php/Home/faculty_corner,TRUE,1
+30,Central University of Jharkhand,https://www.cuj.ac.in/faculty,FALSE,0
+31,Central University of Kashmir,https://www.cukashmir.ac.in/faculty,FALSE,0
+32,Central University of Kerala,https://www.cukerala.ac.in/Academics/Academics_CUK_FacultyDirectory,FALSE,0
+33,Central University of Odisha,https://cuo.ac.in/faculty/,FALSE,0
+34,Central University of Punjab,https://www.cup.edu.in/faculty,FALSE,0
+35,Central University of Rajasthan,https://www.curaj.ac.in/telephone-directory,TRUE,1
+36,Central University of South Bihar,https://www.cusb.ac.in/index.php?option=com_content&view=article&id=166&Itemid=276,TRUE,1
+37,Central University of Tamil Nadu,https://cutn.ac.in/faculty-members/,TRUE,1
+38,Centre for Brain Research (IISc),https://cbr-iisc.ac.in/faculty/,TRUE,1
+39,Christ University,https://christuniversity.in/faculty-list,TRUE,1
+40,Christian Medical College Vellore,https://www.cmch-vellore.edu/faculty/,TRUE,1
+41,Cochin University of Science and Technology,https://cusat.ac.in/faculty,TRUE,1
+42,D.Y. Patil Deemed University Navi Mumbai,https://www.dypatiledu.com/academic-team,TRUE,1
+43,D.Y. Patil IMR,https://imr.dypvp.edu.in/faculty-directory.aspx,TRUE,1
+44,D.Y. Patil International University,https://www.dypiu.ac.in/about-us/faculty,FALSE,0
+45,D.Y. Patil Online,https://www.dypatilonline.com/faculty.aspx,TRUE,1
+46,D.Y. Patil School of Public Health,https://dypatil.edu/schools/school-of-public-health/faculty,TRUE,1
+47,DPU School of Science and Technology,https://dypsst.dpu.edu.in/faculty.aspx,TRUE,1
+48,Delhi School of Economics,https://www.econdse.org/faculty/,FALSE,0
+49,Dr. D.Y. Patil Vidyapeeth Pune,https://dpu.edu.in/faculty-list.aspx,TRUE,1
+50,FMS Delhi,https://www.fms.edu/faculty/,FALSE,0
+51,Fergusson College Pune,https://www.fergusson.edu/faculty/,FALSE,0
+52,Government Medical College,https://www.gmctvm.ac.in/faculty.php,FALSE,0
+53,Gujarat University,https://www.gujaratuniversity.ac.in/Faculty,TRUE,1
+54,Hindu College,https://hinducollege.ac.in/faculty/,FALSE,0
+55,IGNOU,https://www.ignou.ac.in/faculty,FALSE,0
+56,IIITDM Kancheepuram,https://www.iiitdm.ac.in/people/faculty,TRUE,1
+57,IIM Ahmedabad,https://www.iima.ac.in/web/faculty/faculty-profiles,FALSE,0
+58,IIM Bangalore,https://www.iimb.ac.in/faculty,FALSE,0
+59,IIM Calcutta,https://www.iimcal.ac.in/faculty/faculty-directory,TRUE,1
+60,IIM Indore,https://www.iimidr.ac.in/academic/faculty/,TRUE,1
+61,IIM Kashipur,https://www.iimkashipur.ac.in/faculty/faculty-directory,TRUE,1
+62,IIM Kozhikode,https://www.iimk.ac.in/faculty/facultyhome.php,FALSE,0
+63,IIM Lucknow,https://www.iiml.ac.in/faculty/faculty.html,FALSE,0
+64,IIM Udaipur,https://www.iimu.ac.in/faculty_profiles,FALSE,0
+65,IIT BHU (Varanasi),https://prev.iitbhu.ac.in/all/faculty,TRUE,1
+66,IIT Bhubaneswar,https://www.iitbbs.ac.in/index.php/faculty-members/,TRUE,1
+67,IIT Bombay,https://www.iitb.ac.in/faculty,FALSE,0
+68,IIT Delhi,https://www.iitd.ac.in/faculty,FALSE,0
+69,IIT Gandhinagar,https://www.iitgn.ac.in/faculty,TRUE,1
+70,IIT Guwahati,https://www.iitg.ac.in/iitg_faculty_all.php,TRUE,1
+71,IIT Hyderabad,https://www.iith.ac.in/people/faculty/,TRUE,1
+72,IIT Indore,https://www.iiti.ac.in/faculty,FALSE,0
+73,IIT Jodhpur,https://iitj.ac.in/faculty/,TRUE,1
+74,IIT Kanpur,https://iitk.ac.in/new/iitk-faculty,TRUE,1
+75,IIT Kharagpur,https://www.iitkgp.ac.in/faculty,FALSE,0
+76,IIT Madras,https://www.iitm.ac.in/faculty,FALSE,0
+77,IIT Mandi,https://www.iitmandi.ac.in/allfaculty,TRUE,1
+78,IIT Patna,https://www.iitp.ac.in/faculty,FALSE,0
+79,IIT Roorkee,https://www.iitr.ac.in/faculty,FALSE,0
+80,IIT Ropar,https://www.iitrpr.ac.in/faculty,FALSE,0
+81,Indian Institute of Science (IISc) Bangalore,https://iisc.ac.in/about/faculty-corner/,FALSE,0
+82,Indian Institute of Technology,https://www.iitm.ac.in/faculty-staff,FALSE,0
+83,Indian School of Business,https://www.isb.edu/en/faculty.html,FALSE,0
+84,Indian Statistical Institute (Bangalore),https://www.isibang.ac.in/~statmath/faculty.html,TRUE,1
+85,Indian Statistical Institute (Kolkata),https://www2.isical.ac.in/~asu/faculty.html,FALSE,0
+86,Indian Statistical Institute (Northeast),https://www.isine.ac.in/faculty.php,TRUE,1
+87,Jadavpur University,https://jadavpuruniversity.in/faculty-profile/,FALSE,0
+88,Jawaharlal Nehru University,https://www.jnu.ac.in/faculty-search,TRUE,1
+89,Jaya Engineering College,https://jec.ac.in/faculty-6/,TRUE,1
+90,Jindal Global Law School,https://jgu.edu.in/faculties,TRUE,1
+91,KIIT School of Computer Engineering,https://cse.kiit.ac.in/faculty/,TRUE,1
+92,KIIT School of Pharmacy,https://ksp.kiit.ac.in/faculty/,FALSE,0
+93,KSOM KIIT,https://ksom.ac.in/faculty-and-research/faculty/regular-faculty-directory/,FALSE,0
+94,Kasturba Medical College,https://www.manipal.edu/kmc-mangalore/academics/faculty.html,TRUE,1
+95,Kerala University,https://www.keralauniversity.ac.in/faculty,TRUE,1
+96,LPU Distance Education,https://www.lpude.in/downloads/disclosure/details-of-faculty.pdf,TRUE,1
+97,LPU Online,https://www.lpuonline.com,TRUE,1
+98,LPU Physics Department,https://lpu.irins.org/faculty/index/Department+of+Physics,FALSE,0
+99,Lady Sri Ram College,https://lsr.edu.in/faculty/,FALSE,0
+100,Lovely Professional University,https://www.lpu.in/faculty/,FALSE,0
+101,Loyola College Chennai,https://www.loyolacollege.edu/faculty/,FALSE,0
+102,Maharaja Sayajirao University Baroda,https://www.msubaroda.ac.in/faculty,FALSE,0
+103,Management Development Institute,https://www.mdi.ac.in/faculty/,TRUE,1
+104,Mangalam College of Engineering,https://www.mangalam.ac.in/cse/faculty,TRUE,1
+105,Manipal University,https://www.manipal.edu/mu/campuses/mahe-bengaluru/academics/institution-list/mitblr/department-faculty.html,TRUE,1
+106,Maulana Azad Medical College,https://mamc.delhi.gov.in/mamc-dept-regular-faculty-list,TRUE,1
+107,Mumbai University,https://www.mu.ac.in/faculty,FALSE,0
+108,NIT Allahabad,https://mnnit.ac.in/index.php/academics/faculty,FALSE,0
+109,NIT Calicut,https://www.nitc.ac.in/app/webroot/img/upload/Faculty%20Directory.pdf,FALSE,0
+110,NIT Durgapur,https://nitdgp.ac.in/faculty,TRUE,1
+111,NIT Jamshedpur,https://www.nitjsr.ac.in/faculty,TRUE,1
+112,NIT Kurukshetra,https://www.nitkkr.ac.in/faculty_list.php,FALSE,0
+113,NIT Patna,https://www.nitp.ac.in/Academic/Faculty&Staff/AllFaculty,TRUE,1
+114,NIT Rourkela,https://www.nitrkl.ac.in/Faculty,FALSE,0
+115,NIT Surathkal,https://www.nitk.ac.in/faculty,FALSE,0
+116,NIT Trichy,https://www.nitt.edu/home/academics/departments/,TRUE,1
+117,NIT Warangal,https://nitw.ac.in/api/static/files/Full_directory_2023-5-30-11-17-52.pdf,TRUE,1
+118,National Institute of Technology,https://www.nitc.ac.in/faculty,FALSE,0
+119,National Law School of India University,https://www.nls.ac.in/about/people/faculty/,FALSE,0
+120,National Law University Delhi,https://nludelhi.ac.in/faculty-type/core-faculty/,TRUE,1
+121,OP Jindal Global University,https://jgu.edu.in/faculties,TRUE,1
+122,Osmania University,https://www.osmania.ac.in/faculties.php,FALSE,0
+123,PES University,https://pes.edu,TRUE,1
+124,Panjab University,https://cdoe.puchd.ac.in/show-faculty.php,TRUE,1
+125,Presidency University Kolkata,https://www.presiuniv.ac.in/faculty,FALSE,0
+126,Pune University,http://www.unipune.ac.in/snc/interdisciplinary_school_science/idss_webfiles/faculty.htm,TRUE,1
+127,Rajkiya Engineering College,https://www.recabn.ac.in/?page_id=3892,TRUE,1
+128,SASTRA University,https://www.sastra.edu/staffprofiles/schools/soc.php,TRUE,1
+129,SCMC Symbiosis,https://www.scmc.edu.in/faculty-profile,TRUE,1
+130,SCRI Symbiosis,https://scri.siu.edu.in/faculty,TRUE,1
+131,SIBM Pune,https://sibm.edu/mobile/facultyprofile,TRUE,1
+132,SIG Symbiosis,https://sig.ac.in/faculty-profile,TRUE,1
+133,SIHS Symbiosis,https://www.sihs.edu.in/faculty,TRUE,1
+134,SIIB Symbiosis,https://siib.ac.in/faculty/,TRUE,1
+135,SIMC Symbiosis,https://www.simc.edu/people-at-simc/faculty-profiles,TRUE,1
+136,SRM Online,https://www.srmonline.in/faculty-details,TRUE,1
+137,SRM University AP,https://srmap.edu.in/faculty-4/,TRUE,1
+138,SSBS Symbiosis,https://www.ssbs.edu.in/faculty,TRUE,1
+139,SSN College of Engineering,https://www.ssn.edu.in/staff/,FALSE,0
+140,Sai University,https://saiuniversity.edu.in/faculty/,TRUE,1
+141,Shiv Nadar University,https://snu.edu.in/faculty/,TRUE,1
+142,Shiv Nadar University Chennai,https://law.snuchennai.edu.in/faculty/,TRUE,1
+143,Sikkim Manipal Institute of Technology,https://smu.edu.in/smit/faculty.php,TRUE,1
+144,St. Stephen's College,https://www.ststephens.edu/faculty/,TRUE,1
+145,St. Xavier's College Mumbai,https://xaviers.edu/main/faculty-profiles,FALSE,0
+146,Swarnim Gujarat Sports University,https://sgsu.gujarat.gov.in/faculty-members.htm,TRUE,1
+147,Symbiosis International University,https://www.siu.edu.in/faculty,TRUE,1
+148,Symbiosis University Indore,https://www.suas.ac.in/about-symbiosis-indore/faculty-profiles/,TRUE,1
+149,TISS Skill Education,https://sve.tiss.edu/TISS/index.php?p=faculty,TRUE,1
+150,Tata Institute of Social Sciences (TISS),https://tiss.ac.in/faculty/,FALSE,0
+151,University of Calcutta,http://www.econcaluniv.ac.in/Faculty.aspx?FT=C,TRUE,1
+152,University of Delhi,https://www.cie.du.ac.in/?Faculty-Staff,TRUE,1
+153,University of Hyderabad,https://rdc.uohyd.ac.in/expertise,TRUE,1
+154,University of Madras,https://www.unom.ac.in/faculty,FALSE,0
+155,University of Rajasthan,https://www.uor.edu.in/faculty,FALSE,0
+156,VIT Chennai,https://chennai.vit.ac.in/faculty/,FALSE,0
+157,Vellore Institute of Technology (VIT),https://vit.ac.in/faculty,TRUE,1
+158,XLRI Jamshedpur,https://www.xlri.ac.in/faculty,TRUE,1
+,,,,100
